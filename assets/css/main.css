@@ -2562,7 +2562,7 @@ input, select, textarea {
 /* Image */
 
 	.site-preview {
-		object-fit: fill;
+		object-fit: contain;
 	}
 
 	.image {
